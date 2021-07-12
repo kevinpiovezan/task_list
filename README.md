@@ -1,2 +1,29 @@
 # Task List
 ## I've made one usable task list using the local storage of the browser, simple, functional and independent of MySQL for example.
+[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](http://ForTheBadge.com)
+[![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](http://ForTheBadge.com)
+[![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
+
+<h4 align="center"> 
+	🚧  Task List 🚀 on going...  🚧
+</h4>
+
+### Features
+
+- [x] Adding a new task
+- [x] Mark task as done
+- [x] Delete task
+- [x] Delete all tasks
+- [x] Keep tasks after reload 
+- [ ] Keep tasks checked after reload
+
+
+
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8ed1b693-6cca-4388-af70-d611ab6257bd/deploy-status)](https://app.netlify.com/sites/tasklistkcp/deploys)
+You are welcome to test it on this link:https://tasklistkcp.netlify.app
+
+## Technologies used on this project:
+- [HTML](https://html.com)
+- [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
+- [JAVASCRIPT](https://www.javascript.com)
