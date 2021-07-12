@@ -33,7 +33,7 @@ You are welcome to test it on this link:https://tasklistkcp.netlify.app
 ### Author
 ---
 
- <img style="border-radius: 50%;" src="assets/img/Foto em 15-06-2021 às 22.47.jpg" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="![Foto em 15-06-2021 às 22 47](https://user-images.githubusercontent.com/85972685/125216431-89ceca00-e294-11eb-8256-7dd40dcd023e.jpg)" width="100px;" alt=""/>
  <br />
  <sub><b>Kevin Piovezan</b></sub></a>
 
