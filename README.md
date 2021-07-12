@@ -32,7 +32,7 @@ You are welcome to test it on this link:https://tasklistkcp.netlify.app
 ### Author
 ---
 
- <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="assets/img/" width="100px;" alt=""/>
  <br />
  <sub><b>Kevin Piovezan</b></sub></a>
 
